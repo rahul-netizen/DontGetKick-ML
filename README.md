@@ -5,6 +5,7 @@ You can run and experiment with the code using free online resources, try execut
 Or by going to this link
 https://mybinder.org/v2/gh/rahul-netizen/ML-classification/HEAD
 
+![img](https://i.ytimg.com/vi/EoE3EPeRuJc/maxresdefault.jpg)
 # Don't Get Kicked!
 - Explored 72k plus rows of data.
 - Scaled, imputed and encoded the data using scikit-learn.
