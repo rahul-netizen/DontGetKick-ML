@@ -2,8 +2,7 @@
 
 You can run and experiment with the code using free online resources, try executing this notebook by click the "launch" button above.  
 
-Or by going to this link
-https://mybinder.org/v2/gh/rahul-netizen/ML-classification/HEAD
+Or by going to this [link](https://mybinder.org/v2/gh/rahul-netizen/ML-classification/HEAD)
 
 ![img](https://i.ytimg.com/vi/EoE3EPeRuJc/maxresdefault.jpg)
 # Don't Get Kicked!
